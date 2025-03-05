@@ -1,5 +1,3 @@
-# My-portfolio
-
 # Professional Summary
 
 # Resume/Background
