@@ -21,3 +21,10 @@
 * Comptia A+ (May 2023)
 * Security+ (December 2024)
 * CySA (Expected April 2025)
+
+# Technical Skills
+* Hardware Troubleshooting
+* Software Troubleshooting
+* Basics of Linux
+* Basics of Windows
+* Computer Literacy
