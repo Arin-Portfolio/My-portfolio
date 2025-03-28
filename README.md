@@ -15,3 +15,9 @@
 # Projects
 * keeping my sanity in check
 * Raspberry Pi assignment
+
+# Certifications
+* Crime Scene Technician (May 2022)
+* Comptia A+ (May 2023)
+* Security+ (December 2024)
+* CySA (Expected April 2025)
