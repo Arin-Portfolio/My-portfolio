@@ -5,18 +5,6 @@
 * Computer Systems and Information Technology Program         (Auguest 2022 - May 2023)
 * Applied Cybersecurity Career Program                        (August 2024 - April 2025)
 
-# Experience
-* Worked seasonal as a front-end associate at Best Buy (October 2023 - January 2024)
-* Worked as a Crew Member for AMC (April 2024 - August 2024)
-
-# Professional Affiliations
-* The Neon Temple
-* National Technical Honors Society
-* Skills USA
-  
-# Projects
-* Raspberry Pi project in which we set up a pentesting tool called "Bjorn"
-
 # Certifications
 * Crime Scene Technician (May 2022)
 * Comptia A+ (May 2023)
@@ -29,3 +17,17 @@
 * Basics of Linux
 * Basics of Windows
 * Computer Literacy
+
+# Experience
+* Worked seasonal as a front-end associate at Best Buy (October 2023 - January 2024)
+* Worked as a Crew Member for AMC (April 2024 - August 2024)
+
+# Professional Affiliations
+* The Neon Temple
+* National Technical Honors Society
+* Skills USA
+  
+# Projects
+* Raspberry Pi project in which we set up a pentesting tool called "Bjorn"
+
+
