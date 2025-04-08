@@ -11,10 +11,10 @@
 * Cybersecurity +
 * A +
 * Crime Scene Technician
+* CySA (Expected April 14)
   
 # Projects
-* keeping my sanity in check
-* Raspberry Pi assignment
+* Raspberry Pi project in which we set up a pentesting tool called "Bjorn"
 
 # Certifications
 * Crime Scene Technician (May 2022)
