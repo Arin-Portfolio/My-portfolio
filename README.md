@@ -2,13 +2,18 @@
 * Dedicated team player with a proven track record of collaborating with diverse teams to achieve shared goals. Eager to bring strong interpersonal skills, adaptability, and problem-solving abilities to the company, allowing for the improvement and safeguarding of digital assets. 
 
 # Professional Highlights
-* Studied Cyber security
-* Studied CSIT
-* pursuing many different goals, not sure what yet
+* Computer Systems and Information Technology career certificate	         May 2023
+* Applied Cybersecurity Career Certificate		                              May 2025 
 
-# Resume/Background
+
+# Experience
 * Worked seasonal as a front-end associate at Best Buy (October 2023 - January 2024)
 * Worked as a Crew Member for AMC (April 2024 - August 2024)
+
+# Professional Affiliations
+* The Neon Temple
+* National Technical Honors Society
+* Skills USA
   
 # Projects
 * Raspberry Pi project in which we set up a pentesting tool called "Bjorn"
